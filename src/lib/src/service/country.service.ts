@@ -10,6 +10,11 @@ export class CountryService {
         this.countries = [
             {
                 name: '',
+                dialCode: '213',
+                countryCode: 'dz'
+            },
+            {
+                name: '',
                 dialCode: '61',
                 countryCode: 'au'
             },
