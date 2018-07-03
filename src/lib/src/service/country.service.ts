@@ -15,6 +15,11 @@ export class CountryService {
             },
             {
                 name: '',
+                dialCode: '374',
+                countryCode: 'am'
+            },
+            {
+                name: '',
                 dialCode: '61',
                 countryCode: 'au'
             },
