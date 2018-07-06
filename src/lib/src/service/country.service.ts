@@ -20,6 +20,11 @@ export class CountryService {
             },
             {
                 name: '',
+                dialCode: '54',
+                countryCode: 'ar'
+            },
+            {
+                name: '',
                 dialCode: '61',
                 countryCode: 'au'
             },
