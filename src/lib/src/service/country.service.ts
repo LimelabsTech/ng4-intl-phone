@@ -433,11 +433,11 @@ export class CountryService {
                 dialCode: '504',
                 countryCode: 'hn'
             },
-            {
-                name: '',
-                dialCode: '852',
-                countryCode: 'hk'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '852',
+            //     countryCode: 'hk'
+            // },
             {
                 name: '',
                 dialCode: '36',
@@ -1013,11 +1013,11 @@ export class CountryService {
                 dialCode: '963',
                 countryCode: 'sy'
             },
-            {
-                name: '',
-                dialCode: '886',
-                countryCode: 'tw'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '886',
+            //     countryCode: 'tw'
+            // },
             {
                 name: '',
                 dialCode: '992',
