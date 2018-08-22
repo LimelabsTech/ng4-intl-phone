@@ -1,6 +1,6 @@
-import {Injectable} from '@angular/core';
-import {CountryLocale} from '../interface/country-locale.interface';
-import {CountryCode} from "../interface/country-code.interface";
+import { Injectable } from '@angular/core';
+import { CountryLocale } from '../interface/country-locale.interface';
+import { CountryCode } from "../interface/country-code.interface";
 
 @Injectable()
 export class LocaleService {
@@ -136,7 +136,7 @@ export class LocaleService {
       'li': 'LIECHTENSTEIN',
       'lt': 'LITHUANIA',
       'lu': 'LUXEMBOURG',
-      'mo': 'MACAU',
+      'mo': 'GREATER CHINA - MACAU',
       'mk': 'MACEDONIA',
       'mg': 'MADAGASCAR',
       'mw': 'MALAWI',
@@ -357,7 +357,7 @@ export class LocaleService {
       'ht': 'HAITI',
       'hm': 'ISLAS HEARD Y MC DONALD',
       'hn': 'HONDURAS',
-      'hk': 'HONG KONG',
+      'hk': 'GREATER CHINA - HONG KONG',
       'hu': 'HUNGRÍA',
       'is': 'ISLANDIA',
       'in': 'INDIA',
@@ -477,7 +477,7 @@ export class LocaleService {
       'se': 'SUECIA',
       'ch': 'SUIZA',
       'sy': 'SIRIA',
-      'tw': 'TAIWÁN',
+      'tw': 'GREATER CHINA - TAIWÁN',
       'tj': 'TAYIKISTÁN',
       'tz': 'TANZANIA',
       'th': 'TAILANDIA',

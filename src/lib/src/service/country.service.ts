@@ -233,11 +233,11 @@ export class CountryService {
                 dialCode: '385',
                 countryCode: 'hr'
             },
-            {
-                name: '',
-                dialCode: '53',
-                countryCode: 'cu'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '53',
+            //     countryCode: 'cu'
+            // },
             {
                 name: '',
                 dialCode: '599',
@@ -433,11 +433,11 @@ export class CountryService {
                 dialCode: '504',
                 countryCode: 'hn'
             },
-            // {
-            //     name: '',
-            //     dialCode: '852',
-            //     countryCode: 'hk'
-            // },
+            {
+                name: '',
+                dialCode: '852',
+                countryCode: 'hk'
+            },
             {
                 name: '',
                 dialCode: '36',
@@ -458,11 +458,11 @@ export class CountryService {
                 dialCode: '62',
                 countryCode: 'id'
             },
-            {
-                name: '',
-                dialCode: '98',
-                countryCode: 'ir'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '98',
+            //     countryCode: 'ir'
+            // },
             {
                 name: '',
                 dialCode: '964',
@@ -753,11 +753,11 @@ export class CountryService {
                 dialCode: '672',
                 countryCode: 'nf'
             },
-            {
-                name: '',
-                dialCode: '850',
-                countryCode: 'kp'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '850',
+            //     countryCode: 'kp'
+            // },
             {
                 name: '',
                 dialCode: '1670',
@@ -978,11 +978,11 @@ export class CountryService {
                 dialCode: '94',
                 countryCode: 'lk'
             },
-            {
-                name: '',
-                dialCode: '249',
-                countryCode: 'sd'
-            },
+            // {
+            //     name: '',
+            //     dialCode: '249',
+            //     countryCode: 'sd'
+            // },
             {
                 name: '',
                 dialCode: '597',
@@ -1013,11 +1013,11 @@ export class CountryService {
                 dialCode: '963',
                 countryCode: 'sy'
             },
-            // {
-            //     name: '',
-            //     dialCode: '886',
-            //     countryCode: 'tw'
-            // },
+            {
+                name: '',
+                dialCode: '886',
+                countryCode: 'tw'
+            },
             {
                 name: '',
                 dialCode: '992',
